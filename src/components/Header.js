@@ -23,7 +23,7 @@ const Header = () => {
         name
         childImageSharp {
           gatsbyImageData(
-            width: 18
+            width: 54
             placeholder: BLURRED
             quality: 90
             formats: [AUTO, WEBP, AVIF]
@@ -57,12 +57,12 @@ const Header = () => {
             href="https://www.facebook.com/Scenic-City-Business-Solutions-1259924707441490"
             target="_blank"
             rel="noreferrer"
-            className="pr-4"
+            className="mr-4"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="1rem"
-              height="1rem"
+              width="3rem"
+              height="3rem"
               viewBox="0 0 408.788 408.788"
               className="text-facebookBlue text-5xl"
               role="img"
@@ -78,12 +78,12 @@ const Header = () => {
             href="https://twitter.com/ScenicCityBiz"
             target="_blank"
             rel="noreferrer"
-            className="pr-4"
+            className="mr-4"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="1rem"
-              height="1rem"
+              width="3rem"
+              height="3rem"
               viewBox="0 0 24 24"
               className="fil-current text-twitterBlue text-5xl"
               role="img"
@@ -99,12 +99,12 @@ const Header = () => {
             href="https://www.linkedin.com/company/river-city-business"
             target="_blank"
             rel="noreferrer"
-            className="pr-4"
+            className="mr-4"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="1rem"
-              height="1rem"
+              width="3rem"
+              height="3rem"
               viewBox="0 0 382 382"
               className="text-linkedInBlue text-5xl"
               role="img"

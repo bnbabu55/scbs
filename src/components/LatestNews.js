@@ -69,7 +69,7 @@ const LatestNews = () => {
                 <div className="text-base">{parse(post.excerpt)}</div>
                 <div className="py-8">
                   <Link
-                    to={post.frontmatter.slug}
+                    to={`/blog${post.frontmatter.slug}`}
                     className="px-5 py-3 mt-2 border border-gray-400 font-bold tracking-wide uppercase text-base rounded-full hover:bg-themeBlue-600 hover:text-white hover:border-0 transition delay-150 duration-300 ease-in-out"
                   >
                     Detail
