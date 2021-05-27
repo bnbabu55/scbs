@@ -14,7 +14,7 @@ module.exports = {
     author: "@bnbabu55",
     description:
       "Scenic City provides outsource business services including accounting outsourcing, HR outsourcing solutions, and even SEO outsourcing services in its suite of office support solutions",
-    siteUrl: process.env.PROJ_URL || `http://localhost:9000`,
+    siteUrl: process.env.PROJ_URL || `http://localhost:8000`,
   },
   flags: { PRESERVE_WEBPACK_CACHE: true },
   /**

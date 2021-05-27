@@ -2,7 +2,7 @@
 title: 5 Benefits Of Hiring An Outsourced Chief Financial Officer
 author: Admin
 date: "2019-03-04"
-slug: 5-benefits-of-hiring-an-outsourced-cfo
+slug: "/5-benefits-of-hiring-an-outsourced-cfo"
 category: Outsourced Financial Services
 featuredImage: 1-outsourced-cfo-services-chattanooga-tn.jpg
 altTxt: Outsourced CFO services Chattanooga, TN

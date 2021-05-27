@@ -2,7 +2,7 @@
 title: 5 Businesses that Benefit from Back Office Support Services
 author: Admin
 date: "2019-02-11"
-slug: 5-businesses-that-benefit-from-back-office-support-services
+slug: "/5-businesses-that-benefit-from-back-office-support-services"
 category: Back Office Support Services
 featuredImage: 2-back-office-support-chattanooga-tn.jpg
 altTxt: Back office support Chattanooga, TN
