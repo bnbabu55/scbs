@@ -61,7 +61,7 @@ const LatestNews = () => {
               </div>
               <div className="flex flex-col text-left pt-1">
                 <Link
-                  to={post.frontmatter.slug}
+                  to={`/blog${post.frontmatter.slug}`}
                   className="pb-3 font-bold tracking-wide uppercase text-base hover:text-themeBlue-600 transition delay-150 duration-300 ease-in-out"
                 >
                   {post.frontmatter.title}

@@ -142,7 +142,7 @@ const Footer = () => {
                 <div className="flex flex-col text-left -mt-1">
                   <div className="text-sm">{post.frontmatter.date}</div>
                   <Link
-                    to={post.frontmatter.slug}
+                    to={`/blog${post.frontmatter.slug}`}
                     className="pb-3 text-sm hover:text-themeBlue-600 transition delay-150 duration-300 ease-in-out"
                   >
                     {post.frontmatter.title}
